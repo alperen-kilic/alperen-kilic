@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperen-kilic&show_icons=true&locale=en&layout=compact" alt="alperen-kilic" /></p>
 
 <p>&nbsp;<img align="center" src="https://stats.alperenkilic.me/api?username=alperen-kilic&show_icons=true&locale=en&hide=stars,contribs" alt="alperen-kilic" /></p>
+
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=killjoyjr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true"/></p>
