@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React and NextJS**
 
-- 📫 How to reach me **alp.kilic.97@gmail.com**
+- 📫 How to reach me **contact@alperenkilic.me**
 
 - 📄 Know about my experiences [here.](https://www.alperenkilic.me/about)
 
