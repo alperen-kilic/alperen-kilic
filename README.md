@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Yuvam Olur Musun?](https://yuvamolurmusun.beylikduzu.istanbul)
 
-- 🌱 I’m currently learning **.NET 7**
+- 🌱 I’m currently learning **.NET 8**
 
 - 👨‍💻 All of my projects are available at [my website.](https://www.alperenkilic.me/)
 
